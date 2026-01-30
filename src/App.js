@@ -15,7 +15,7 @@ export default function App() {
       <div className="mx-auto max-w-[1184px]">
 
         {/* MAIN HEADING */}
-        <h1 className="serif-heading text-[30px] leading-[36px] font-medium text-[#1A1A1A] mb-[50px]">
+        <h1 className="serif-heading text-[30px] leading-[36px] font-medium text-[#333333] mb-[50px]">
           Cultural Exchange & Archive Collaboration
         </h1>
 
@@ -26,7 +26,7 @@ export default function App() {
           <div className="w-full md:w-[671px] flex flex-col gap-[50px]">
 
             {/* SUB HEADING */}
-            <h2 className="serif-heading text-[22px] leading-[26px] font-medium text-[#1A1A1A] mb-[35px]">
+            <h2 className="serif-heading text-[22px] leading-[26px] font-medium text-[#333333] mb-[35px]">
               Volunteering & Employment Details
             </h2>
 
@@ -39,7 +39,7 @@ export default function App() {
                   <FiHome className="text-orange-500 text-[18px]" />
                 </div>
                 <div>
-                  <p className="text-[15px] font-semibold text-[#1A1A1A] mb-1">
+                  <p className="text-[15px] font-semibold text-[#333333] mb-1">
                     Provisions Offered by the Centre :
                   </p>
                   <p className="text-[15px] leading-[24px] text-[#333333]">
@@ -54,7 +54,7 @@ export default function App() {
                   <FiUser className="text-orange-500 text-[18px]" />
                 </div>
                 <div>
-                  <p className="text-[15px] font-semibold text-[#1A1A1A] mb-1">Type :</p>
+                  <p className="text-[15px] font-semibold text-[#333333] mb-1">Type :</p>
                   <p className="text-[15px] leading-[24px] text-[#333333]">
                     Unpaid / Short-term Residential Exchange
                   </p>
@@ -62,7 +62,7 @@ export default function App() {
               </div>
 
               {/* Deadline */}
-              <div className="flex gap-[15px] mb-[30px]">
+              <div className="flex gap-[15px] mb-[50px]">
                 <div className="w-[45px] h-[45px] rounded-full bg-orange-100 flex items-center justify-center shrink-0">
                   <FiCalendarAlt className="text-orange-500 text-[18px]" />
                 </div>
@@ -86,7 +86,7 @@ export default function App() {
           {/* RIGHT CARD */}
           <div className="w-full md:w-[433px] h-full border border-gray-200 rounded-2xl px-[28px] py-[28px] body-text">
 
-            <h3 className="serif-heading text-[20px] text-[#1A1A1A] mb-[28px]">
+            <h3 className="serif-heading text-[20px] text-[#333333] mb-[28px]">
               Contact Info of the Centre
             </h3>
 
@@ -96,7 +96,7 @@ export default function App() {
                 <FiUser className="text-orange-500 text-[16px]" />
               </div>
               <div>
-                <p className="text-[15px] font-semibold text-[#1A1A1A] mb-[2px]">Name :</p>
+                <p className="text-[15px] font-semibold text-[#333333] mb-[2px]">Name :</p>
                 <a href="#" className="text-[15px] text-orange-600 hover:underline">
                   Centro Sri Aurobindo e Mère APS - Italy
                 </a>
@@ -109,7 +109,7 @@ export default function App() {
                 <FiHome className="text-orange-500 text-[16px]" />
               </div>
               <div>
-                <p className="text-[15px] font-semibold text-[#1A1A1A] mb-[2px]">Address :</p>
+                <p className="text-[15px] font-semibold text-[#333333] mb-[2px]">Address :</p>
                 <p className="text-[15px] leading-[21px] text-[#333333]">
                   Via Rio d'Orzo, 535, Savignano sul Panaro,<br />Modena, Italy - 41056
                 </p>
@@ -122,7 +122,7 @@ export default function App() {
                 <FiMail className="text-orange-500 text-[16px]" />
               </div>
               <div>
-                <p className="text-[15px] font-semibold text-[#1A1A1A] mb-[2px]">Mail Id :</p>
+                <p className="text-[15px] font-semibold text-[#333333] mb-[2px]">Mail Id :</p>
                 <p className="text-[15px] text-[#333333]">sabina.germoglio@gmail.com</p>
               </div>
             </div>
@@ -133,7 +133,7 @@ export default function App() {
                 <FiGlobe className="text-orange-500 text-[16px]" />
               </div>
               <div>
-                <p className="text-[15px] font-semibold text-[#1A1A1A] mb-[2px]">Website :</p>
+                <p className="text-[15px] font-semibold text-[#333333] mb-[2px]">Website :</p>
                 <a href="#" className="text-[15px] text-orange-600 hover:underline break-all">
                   https://www.centrodieducazioneintegrale.com/
                 </a>
@@ -146,7 +146,7 @@ export default function App() {
                 <FiSmile className="text-orange-500 text-[16px]" />
               </div>
               <div>
-                <p className="text-[15px] font-semibold text-[#1A1A1A] mb-[6px]">Social Media Links</p>
+                <p className="text-[15px] font-semibold text-[#333333] mb-[6px]">Social Media Links</p>
                 <div className="flex gap-[10px] text-orange-600 text-[15px]">
                   <FiFacebookF />
                   <FiInstagram />

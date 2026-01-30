@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/cultural-exchange/static/css/main.a584fe65.css",
-    "main.js": "/cultural-exchange/static/js/main.9c0bd67a.js",
+    "main.css": "/cultural-exchange/static/css/main.0e584c74.css",
+    "main.js": "/cultural-exchange/static/js/main.15fd158a.js",
     "static/js/453.4c52676b.chunk.js": "/cultural-exchange/static/js/453.4c52676b.chunk.js",
     "index.html": "/cultural-exchange/index.html",
-    "main.a584fe65.css.map": "/cultural-exchange/static/css/main.a584fe65.css.map",
-    "main.9c0bd67a.js.map": "/cultural-exchange/static/js/main.9c0bd67a.js.map",
+    "main.0e584c74.css.map": "/cultural-exchange/static/css/main.0e584c74.css.map",
+    "main.15fd158a.js.map": "/cultural-exchange/static/js/main.15fd158a.js.map",
     "453.4c52676b.chunk.js.map": "/cultural-exchange/static/js/453.4c52676b.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.a584fe65.css",
-    "static/js/main.9c0bd67a.js"
+    "static/css/main.0e584c74.css",
+    "static/js/main.15fd158a.js"
   ]
 }

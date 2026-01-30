@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/cultural-exchange/static/css/main.b47a7671.css",
+    "main.js": "/cultural-exchange/static/js/main.2beccca2.js",
+    "static/js/453.4c52676b.chunk.js": "/cultural-exchange/static/js/453.4c52676b.chunk.js",
+    "index.html": "/cultural-exchange/index.html",
+    "main.b47a7671.css.map": "/cultural-exchange/static/css/main.b47a7671.css.map",
+    "main.2beccca2.js.map": "/cultural-exchange/static/js/main.2beccca2.js.map",
+    "453.4c52676b.chunk.js.map": "/cultural-exchange/static/js/453.4c52676b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b47a7671.css",
+    "static/js/main.2beccca2.js"
+  ]
+}
